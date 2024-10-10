@@ -1,0 +1,1 @@
+query_id=AAHTQVQtAwAAANNBVC0GRQsn&user=%7B%22id%22%3A7202947539%2C%22first_name%22%3A%22SHOHAG%22%2C%22last_name%22%3A%22VAII%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1728527899&hash=2c4fa6be05d4dd153561c6a954f481dda7c29be8f9c35aa71270551f27980ff3
